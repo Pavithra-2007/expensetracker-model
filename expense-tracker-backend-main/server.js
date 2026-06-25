@@ -14,7 +14,7 @@ connectDB();
 app.use(
   cors({
     origin: [
-      "http://localhost:5173",
+      "http://localhost:5174",
       "http://expensetracker-model.vercel.app/login"
     ],
     methods: ["GET", "POST", "PUT", "DELETE"],
