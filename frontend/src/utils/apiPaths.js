@@ -1,6 +1,6 @@
 // export const BASE_URL = "https://expensetracker-backend-r3l8.onrender.com";
 export const BASE_URL = "http://localhost:5000";
-
+export const BASE_URL = "https://expensetracker-model.onrender.com";
 export const API_PATHS = {
   AUTH: {
     LOGIN: `${BASE_URL}/api/v1/auth/login`,
